@@ -4,11 +4,11 @@
 <tr>
 <td width="62%" valign="top">
 
-Oi, eu sou o **Gabriel Barros**, mas pode me chamar de **Medusa 🐍** — ou de **MedusoDev**, o nome da loja.
+Oi, eu sou o **Gabriel Barros**, mas pode me chamar de **Meduso 🐍** — ou de **MedusoDev**.
 
-Sou **desenvolvedor full stack & mobile**, formando em Ciência da Computação (2026). Há 2 anos estou na TI da Secretaria de Educação de Alagoas, entre sistemas em produção (React, TypeScript, MySQL) e suporte técnico.
+Sou **desenvolvedor full stack & mobile**, formando em Ciência da Computação (2026).
 
-Fora do expediente, crio coisas: o **[Codolin](https://codolin.web.app)**, um app para aprender programação jogando, e jogos como o **CabaDaPeste**, 1º lugar na GameJam UNINASSAU 2025.
+Crio coisas: o **[Codolin](https://codolin.web.app)**, um app para aprender programação jogando, e jogos como o **CabaDaPeste**, 1º lugar na GameJam UNINASSAU 2025.
 
 🔗 **[gabrielbarros-portfolio.vercel.app](https://gabrielbarros-portfolio.vercel.app)**
 
